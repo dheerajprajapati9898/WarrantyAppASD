@@ -1,0 +1,26 @@
+npm i @react-navigation/native@6.1.17
+npm i @react-navigation/native-stack@6.9.26
+npm i react-native-safe-area-context@4.10.4
+npm i react-native-screens@3.29.0
+
+npm i react-native-paper@5.12.3
+
+npm i @react-native-async-storage/async-storage@1.23.1
+
+npm i react-native-date-picker@5.0.4
+
+npm i @react-navigation/drawer@6.6.15
+npm i react-native-gesture-handler@2.16.2 
+npm i react-native-reanimated@3.12.0
+
+npm i react-native-dropdown-select-list@2.0.5
+
+npm i react-native-sqlite-storage // used for sqlite database 
+npm i react-native-image-picker react-native-permissions //camera (image)
+
+
+
+npm i react-native-html-to-pdf
+npm install axios
+
+
